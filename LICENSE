@@ -1,0 +1,17 @@
+Copyright (c) 2026 BestAI Labs. All rights reserved.
+
+This repository and its contents (the "Software"), including the bundled
+workflow skills, are provided by BestAI Labs to its customers and authorized
+users for the purpose of installing and running BestAI workflows in their own
+local AI coding environments (such as Claude Code and Codex).
+
+You may download, install, and use the Software for that purpose. You may not
+sell, sublicense, redistribute, or create derivative works from the Software,
+in whole or in part, without the prior written permission of BestAI Labs.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL
+BESTAI LABS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN
+AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

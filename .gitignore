@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# macOS
+.DS_Store
+
+# Editors
+.idea/
+.vscode/
+
+# Local installer test prefixes
+/aqs-test/

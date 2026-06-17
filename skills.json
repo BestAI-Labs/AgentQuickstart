@@ -1,0 +1,16 @@
+{
+  "catalog_version": "2",
+  "updated": "2026-06-17",
+  "note": "Catalog only. Skills are NOT stored here; each is fetched from its own source repository at install time. 'access: licensed' means the repo is private and a BestAI token with access is required.",
+  "skills": [
+    {
+      "name": "wide-research",
+      "title": "Web Research (Wide Research)",
+      "description": "Long, multi-hour, breadth-first research on a single topic. Fans out many parallel sub-agents wave after wave, folds findings to disk, finds the gaps, and finishes with a verified, cited report plus a living document.",
+      "repo": "BestAI-Labs/wide-research",
+      "ref": "main",
+      "access": "licensed",
+      "platforms": ["claude-code", "codex"]
+    }
+  ]
+}
